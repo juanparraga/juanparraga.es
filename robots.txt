@@ -1,0 +1,7 @@
+# La página lleva <meta name="robots" content="noindex">, así que SÍ debe
+# poder rastrearse: si se bloquea aquí, el buscador nunca lee ese meta y la
+# URL puede acabar apareciendo igualmente en los resultados.
+# El PDF no admite meta, así que ese sí se bloquea por esta vía.
+
+User-agent: *
+Disallow: /Juan-Parraga-Arroyo-CV.pdf
