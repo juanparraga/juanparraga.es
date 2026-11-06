@@ -31,3 +31,4 @@ GitHub Pages republica el sitio en menos de un minuto.
 El sitio es accesible para cualquiera que tenga el enlace, pero no aparece en
 buscadores: `index.html` incluye `<meta name="robots" content="noindex, nofollow">`.
 Para hacerlo visible en Google, basta con quitar esa línea y publicar el cambio.
+Publicado en https://juanparraga.es
